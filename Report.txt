@@ -1,0 +1,13 @@
+Reservation Report:
+ID	User	Date	Time	CarID	Status	Destination	Seats Reserved	Total Seats
+----------------------------------------------------------------------------------------------------
+
+Summary by User:
+
+Top Reserved Destinations:
+
+Reservations by Time Slot:
+
+Golf Car Occupancy Rate:
+
+Total Reservations: 0
