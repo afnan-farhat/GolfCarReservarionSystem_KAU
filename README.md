@@ -43,6 +43,7 @@ The admin interface enables administrators to:
 ## System Components
 1. **Database Creation:**
    - A dedicated SQL Workbench class is used to create and manage the database schema for users, reservations, and golf cars.
+   Note: To successfully connect the Java project with SQL Workbench, you need to add the file mysql_connector to the Java library folder. 
 2. **Report Generation:**
    - A `Report` class is implemented to generate detailed reservation reports, including:
      - Reservation ID
