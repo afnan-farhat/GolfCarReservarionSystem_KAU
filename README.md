@@ -18,7 +18,7 @@ This system is designed to streamline the reservation process for golf cars with
 
 ## System Features
 
-### Student Interface (Main)
+### Student Interface 
 The student interface allows students to:
 - **Login/Logout:**
    - Secure access to the system with personalized accounts.
