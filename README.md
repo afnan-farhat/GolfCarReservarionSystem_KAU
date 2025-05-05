@@ -64,9 +64,12 @@ This system ensures efficient management of golf car reservations and enhances c
 
 
 ## Interfaces:
+### Main
+
 <img src="https://github.com/user-attachments/assets/19d1e54a-96d5-4d9e-a277-ec125323ac27" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+### Admin
 <img src="https://github.com/user-attachments/assets/4c46c3ad-4abd-4f99-8a02-2b22c6ce90c0" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
@@ -74,6 +77,10 @@ This system ensures efficient management of golf car reservations and enhances c
 <hr>
 
 <img src="https://github.com/user-attachments/assets/3bb13e2c-3229-4200-a05d-0ea17e518e8b" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
+<hr>
+
+### Student
+<img src="https://github.com/user-attachments/assets/ebb50252-3caa-4152-b005-4dad79ffbcf0" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
 <img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
@@ -86,8 +93,7 @@ This system ensures efficient management of golf car reservations and enhances c
 <hr>
 <img src="https://github.com/user-attachments/assets/e684c7a1-47f1-4200-b83a-dac213a32ffb" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
-<img src="https://github.com/user-attachments/assets/ebb50252-3caa-4152-b005-4dad79ffbcf0" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
-<hr>
+
 <img src="https://github.com/user-attachments/assets/64ae8adc-67ea-4583-b022-0ebc052067f6" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 <img src="https://github.com/user-attachments/assets/f41236c0-e742-4497-9ba6-7880ca9d55f6" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
