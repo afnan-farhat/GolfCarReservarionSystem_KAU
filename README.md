@@ -64,6 +64,7 @@ This system ensures efficient management of golf car reservations and enhances c
 
 
 ##Main interfaces:
+<img src="https://github.com/afnan-farhat/GolfCarReservarionSystem_KAU/assets/.../main.jpg" alt="main" align="left" width="50" style="border-radius: 10px;">&nbsp;&nbsp;&nbsp;
 
 ##Admin interfaces:
 
