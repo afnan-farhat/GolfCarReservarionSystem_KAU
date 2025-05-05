@@ -64,14 +64,18 @@ This system ensures efficient management of golf car reservations and enhances c
 
 
 ## Interfaces:
+<img src="https://github.com/user-attachments/assets/19d1e54a-96d5-4d9e-a277-ec125323ac27" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
+<hr>
+
+<img src="https://github.com/user-attachments/assets/4c46c3ad-4abd-4f99-8a02-2b22c6ce90c0" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
+<hr>
+
 <img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 <img src="https://github.com/user-attachments/assets/3bb13e2c-3229-4200-a05d-0ea17e518e8b" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
-<img src="https://github.com/user-attachments/assets/19d1e54a-96d5-4d9e-a277-ec125323ac27" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
-<hr>
-<img src="https://github.com/user-attachments/assets/4c46c3ad-4abd-4f99-8a02-2b22c6ce90c0" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
-<hr>
+
+
 <img src="https://github.com/user-attachments/assets/51c794a5-243b-4f19-a1e5-079c028e3a9b" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 <img src="https://github.com/user-attachments/assets/ac2615de-90a7-4047-a84a-468ac1acc95c" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
