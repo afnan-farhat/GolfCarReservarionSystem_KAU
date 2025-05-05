@@ -64,7 +64,7 @@ This system ensures efficient management of golf car reservations and enhances c
 
 
 ##Main interfaces:
-<img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="50" style="border-radius: 10px;" align="left">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main"  style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp;
 
 ##Admin interfaces:
 
