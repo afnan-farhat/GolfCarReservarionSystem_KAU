@@ -70,36 +70,44 @@ This system ensures efficient management of golf car reservations and enhances c
 <hr>
 
 ### Admin
+#### Admin Menu
 <img src="https://github.com/user-attachments/assets/4c46c3ad-4abd-4f99-8a02-2b22c6ce90c0" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Admin Manage Golf Cars
 <img src="https://github.com/user-attachments/assets/51c794a5-243b-4f19-a1e5-079c028e3a9b" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Admin Chatting
 <img src="https://github.com/user-attachments/assets/3bb13e2c-3229-4200-a05d-0ea17e518e8b" alt="admin" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
 ### Student
+#### Student Login
 <img src="https://github.com/user-attachments/assets/ebb50252-3caa-4152-b005-4dad79ffbcf0" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Student Menu
 <img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Student Make Reservation
 <img src="https://github.com/user-attachments/assets/69708b16-c363-4744-ad83-0a316d32e271" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Student Seats Selection
 <img src="https://github.com/user-attachments/assets/f41236c0-e742-4497-9ba6-7880ca9d55f6" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
-
+#### Student Cancel My Reservation 
 <img src="https://github.com/user-attachments/assets/64ae8adc-67ea-4583-b022-0ebc052067f6" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
-
+#### Student All My Reservations 
 <img src="https://github.com/user-attachments/assets/ac2615de-90a7-4047-a84a-468ac1acc95c" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
+#### Student Contact Us
 <img src="https://github.com/user-attachments/assets/e684c7a1-47f1-4200-b83a-dac213a32ffb" alt="student" width="500" style="border-radius: 0px;" align="center">&nbsp;&nbsp;&nbsp;
 <hr>
 
