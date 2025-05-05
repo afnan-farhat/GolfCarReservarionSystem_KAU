@@ -64,10 +64,10 @@ This system ensures efficient management of golf car reservations and enhances c
 
 
 ## Interfaces:
-
-<img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="300" style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp; <div></div>
-
-<img src="https://github.com/user-attachments/assets/3bb13e2c-3229-4200-a05d-0ea17e518e8b" alt="admin" width="300" style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp;<br><br><br><br>
+<div>
+<img src="https://github.com/user-attachments/assets/7a31b570-0d2b-40df-ab62-f448edc9b535" alt="main" width="300" style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp; </div>
+<div>
+<img src="https://github.com/user-attachments/assets/3bb13e2c-3229-4200-a05d-0ea17e518e8b" alt="admin" width="300" style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp;</div>
 
 <img src="https://github.com/user-attachments/assets/19d1e54a-96d5-4d9e-a277-ec125323ac27" alt="admin" width="300" style="border-radius: 0px;" align="left">&nbsp;&nbsp;&nbsp;<br><br><br><br>
 
