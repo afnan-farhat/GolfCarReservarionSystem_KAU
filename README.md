@@ -61,3 +61,10 @@ The admin interface enables administrators to:
 ---
 
 This system ensures efficient management of golf car reservations and enhances communication between students and administrators. The inclusion of real-time chat, database integration, and detailed reporting makes it a comprehensive solution for King Abdulaziz University.
+
+
+##Main interfaces:
+
+##Admin interfaces:
+
+##Student interfaces: 
